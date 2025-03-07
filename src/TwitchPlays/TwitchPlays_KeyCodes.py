@@ -1,6 +1,6 @@
 import time
 import ctypes
-import pynput
+#import pynput
 import pydirectinput
 
 #############################################################
